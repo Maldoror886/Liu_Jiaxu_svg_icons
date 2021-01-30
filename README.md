@@ -1,6 +1,6 @@
 # Liu_Jiaxu_svg_icons
 
-#Assignment Requirements
+# Assignment Requirements
 
 Use CSS interactions transitions to change the icon’s appearance (on hover, as an example,
 reverse all of the colours or add a drop shadow, etc).
@@ -8,7 +8,7 @@ When clicked, toggle a “selected” CSS class on the active icon and log a mes
 console with the ID of the element that you’ve clicked. The ID should be retrieved and displayed
 with a JavaScript string template and variable (refer to the class example).
 
-#My svg icons
+# My svg icons
 
 My web is svg icon site is about the exploration of the universe, svg is about the planets and the universe theme.
 
